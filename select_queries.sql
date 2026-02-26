@@ -1,3 +1,4 @@
+
 1) WAQTD employee name,salary of all the employees.
 
 ans -> SELECT ENAME, SAL
